@@ -85,14 +85,12 @@ E uma **caixa de saída** de um conjunto como saídas do seu programa serão imp
 ![haaa](https://user-images.githubusercontent.com/52284130/61500091-1abd8400-a9a0-11e9-86bb-83e4ab7b0b02.jpg)
 
 # O que é GITHUB?
-
 ![github](https://user-images.githubusercontent.com/52284130/61500113-358ff880-a9a0-11e9-9a35-e51dd85a3db4.jpg)
 O Github é um serviço web que oferece várias funcionalidades extras ao git. Resumindo, você pode usar o aplicativo gratuito para atualizar seus projetos pessoais. Além disso, quase todos os projetos / frameworks / bibliotecas de desenvolvimento open source estão no github, e você pode acompanhar as novas versões da versão, contribuir informando bugs ou até mesmo enviando código e correções. Se você é desenvolvedor e ainda não tem github, você está atrasado e é uma hora de correr atrás do prejuízo.
 
 # O que é GIT?
 ![git](https://user-images.githubusercontent.com/52284130/61500161-5b1d0200-a9a0-11e9-8ac5-c1039982f5a8.png)
 O Git é um sistema de controle de acesso livre para a grande maioria dos desenvolvedores atualmente. Com ele pode fazer todo o histórico de mudanças sem o código para o nosso projeto e retornar para qualquer ponto de informação.
-
 Além disso, o Git nos ajuda muito a controlar o fluxo de novas funcionalidades. Entre o desenvolvedor não há projeto com ferramentas para análise e resolução de problemas quando o mesmo arquivo é editado por mais de uma pessoa em memória diferentes.
 
 # Declaração de variáveis
