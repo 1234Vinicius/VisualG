@@ -90,6 +90,7 @@ O Github é um serviço web que oferece várias funcionalidades extras ao git. R
 
 # O que é GIT?
 ![git](https://user-images.githubusercontent.com/52284130/61500161-5b1d0200-a9a0-11e9-8ac5-c1039982f5a8.png)
+
 O Git é um sistema de controle de acesso livre para a grande maioria dos desenvolvedores atualmente. Com ele pode fazer todo o histórico de mudanças sem o código para o nosso projeto e retornar para qualquer ponto de informação.
 Além disso, o Git nos ajuda muito a controlar o fluxo de novas funcionalidades. Entre o desenvolvedor não há projeto com ferramentas para análise e resolução de problemas quando o mesmo arquivo é editado por mais de uma pessoa em memória diferentes.
 
